@@ -1,0 +1,4 @@
+Flask==1.0.2
+flask
+itsdangerous==2.0.1
+WTForms~=3.0.1
